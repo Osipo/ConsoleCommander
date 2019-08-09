@@ -1,0 +1,11 @@
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.csprojAssemblyReference.cache
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.csproj.CoreCompileInputs.cache
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.AssemblyInfoInputs.cache
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.AssemblyInfo.cs
+C:\DotNetFramework\Core\ConsoleCommander\bin\Debug\netcoreapp2.1\ConsoleCommander.deps.json
+C:\DotNetFramework\Core\ConsoleCommander\bin\Debug\netcoreapp2.1\ConsoleCommander.runtimeconfig.json
+C:\DotNetFramework\Core\ConsoleCommander\bin\Debug\netcoreapp2.1\ConsoleCommander.runtimeconfig.dev.json
+C:\DotNetFramework\Core\ConsoleCommander\bin\Debug\netcoreapp2.1\ConsoleCommander.dll
+C:\DotNetFramework\Core\ConsoleCommander\bin\Debug\netcoreapp2.1\ConsoleCommander.pdb
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.dll
+C:\DotNetFramework\Core\ConsoleCommander\obj\Debug\netcoreapp2.1\ConsoleCommander.pdb
